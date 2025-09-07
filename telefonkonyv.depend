@@ -1,0 +1,467 @@
+# depslib dependency file v1.0
+1697901706 source:c:\users\kalma.desktop-3au5rn7\onedrive\asztali gép\bme\1 félév\programozás alapjai\itthon\nagyzh\telefonkonyv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1698869695 source:c:\users\kalma.desktop-3au5rn7\onedrive\asztali gép\bme\1 félév\programozás alapjai\házi feladat\telefonkonyv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<conio.h>
+	<windows.h>
+
+1700861337 source:c:\users\fonok1\desktop\patrik\házi feladat\telefonkonyv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+
+1700839948 c:\users\fonok1\desktop\patrik\házi feladat\telefonkonyv\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1700927528 source:c:\users\fonok1\desktop\házihoz\telefonkonyv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+
+1700839948 c:\users\fonok1\desktop\házihoz\telefonkonyv\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1701010712 source:c:\users\fonok1\desktop\patrik\házi feladat\házi végleges\telefonkonyv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+
+1700839948 c:\users\fonok1\desktop\patrik\házi feladat\házi végleges\telefonkonyv\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1701451368 source:c:\users\fonok1\desktop\pótra\telefonkonyv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+
+1700839948 c:\users\fonok1\desktop\pótra\telefonkonyv\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1701697853 source:c:\bme\prg1\pótra\telefonkonyv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"menuk.h"
+	"lista.h"
+	"egyeb.h"
+
+1700839950 c:\bme\prg1\pótra\telefonkonyv\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1701697539 c:\bme\prg1\pótra\telefonkonyv\menuk.h
+	"lista.h"
+
+1701697473 source:c:\bme\prg1\pótra\telefonkonyv\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"lista.h"
+
+1701697539 c:\bme\prg1\pótra\telefonkonyv\lista.h
+
+1701697732 source:c:\bme\prg1\pótra\telefonkonyv\kereses.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"kereses.h"
+
+1701697732 c:\bme\prg1\pótra\telefonkonyv\kereses.h
+	"lista.h"
+
+1701697853 source:c:\bme\prg1\pótra\telefonkonyv\egyeb.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"lista.h"
+	"egyeb.h"
+
+1701697853 c:\bme\prg1\pótra\telefonkonyv\egyeb.h
+	"lista.h"
+
+1701697852 source:c:\users\kalma.desktop-3au5rn7\onedrive\asztali gép\bemutatas\telefonkonyv\egyeb.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"lista.h"
+	"egyeb.h"
+
+1700839950 c:\users\kalma.desktop-3au5rn7\onedrive\asztali gép\bemutatas\telefonkonyv\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1701697538 c:\users\kalma.desktop-3au5rn7\onedrive\asztali gép\bemutatas\telefonkonyv\lista.h
+
+1701697852 c:\users\kalma.desktop-3au5rn7\onedrive\asztali gép\bemutatas\telefonkonyv\egyeb.h
+	"lista.h"
+
+1701704634 source:c:\users\kalma.desktop-3au5rn7\onedrive\asztali gép\bemutatas\telefonkonyv\kereses.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"kereses.h"
+
+1701697732 c:\users\kalma.desktop-3au5rn7\onedrive\asztali gép\bemutatas\telefonkonyv\kereses.h
+	"lista.h"
+
+1701704671 source:c:\users\kalma.desktop-3au5rn7\onedrive\asztali gép\bemutatas\telefonkonyv\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"lista.h"
+
+1701704715 source:c:\users\kalma.desktop-3au5rn7\onedrive\asztali gép\bemutatas\telefonkonyv\menuk.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"menuk.h"
+	"egyeb.h"
+	"kereses.h"
+
+1701697538 c:\users\kalma.desktop-3au5rn7\onedrive\asztali gép\bemutatas\telefonkonyv\menuk.h
+	"lista.h"
+
+1701701452 source:c:\users\asus\desktop\nagy házi\telefonkonyv\egyeb.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"lista.h"
+	"egyeb.h"
+
+1700843550 c:\users\asus\desktop\nagy házi\telefonkonyv\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1701701138 c:\users\asus\desktop\nagy házi\telefonkonyv\lista.h
+
+1701701452 c:\users\asus\desktop\nagy házi\telefonkonyv\egyeb.h
+	"lista.h"
+
+1701708236 source:c:\users\asus\desktop\nagy házi\telefonkonyv\kereses.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"kereses.h"
+
+1701701332 c:\users\asus\desktop\nagy házi\telefonkonyv\kereses.h
+	"lista.h"
+
+1701708272 source:c:\users\asus\desktop\nagy házi\telefonkonyv\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"lista.h"
+
+1701708504 source:c:\users\asus\desktop\nagy házi\telefonkonyv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"menuk.h"
+	"lista.h"
+	"egyeb.h"
+
+1701701138 c:\users\asus\desktop\nagy házi\telefonkonyv\menuk.h
+	"lista.h"
+
+1701708316 source:c:\users\asus\desktop\nagy házi\telefonkonyv\menuk.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"menuk.h"
+	"egyeb.h"
+	"kereses.h"
+
+1728070475 source:c:\users\fonok1\desktop\hazi\nagy házi\telefonkonyv\egyeb.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"lista.h"
+	"egyeb.h"
+
+1728070475 c:\users\fonok1\desktop\hazi\nagy házi\telefonkonyv\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1728070475 c:\users\fonok1\desktop\hazi\nagy házi\telefonkonyv\lista.h
+
+1728070475 c:\users\fonok1\desktop\hazi\nagy házi\telefonkonyv\egyeb.h
+	"lista.h"
+
+1728070939 source:c:\users\fonok1\desktop\hazi\nagy házi\telefonkonyv\kereses.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"kereses.h"
+
+1728070866 c:\users\fonok1\desktop\hazi\nagy házi\telefonkonyv\kereses.h
+	"lista.h"
+
+1728070475 source:c:\users\fonok1\desktop\hazi\nagy házi\telefonkonyv\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"lista.h"
+
+1728070763 source:c:\users\fonok1\desktop\hazi\nagy házi\telefonkonyv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"menuk.h"
+	"lista.h"
+	"egyeb.h"
+
+1728070475 c:\users\fonok1\desktop\hazi\nagy házi\telefonkonyv\menuk.h
+	"lista.h"
+
+1728070971 source:c:\users\fonok1\desktop\hazi\nagy házi\telefonkonyv\menuk.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"menuk.h"
+	"egyeb.h"
+	"kereses.h"
+
+1732197367 source:c:\users\fonok1\desktop\gyakorlás\hazi\nagy házi\telefonkonyv\egyeb.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"lista.h"
+	"egyeb.h"
+
+1728066875 c:\users\fonok1\desktop\gyakorlás\hazi\nagy házi\telefonkonyv\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1729188281 c:\users\fonok1\desktop\gyakorlás\hazi\nagy házi\telefonkonyv\lista.h
+
+1728066875 c:\users\fonok1\desktop\gyakorlás\hazi\nagy házi\telefonkonyv\egyeb.h
+	"lista.h"
+
+1729953893 source:c:\users\fonok1\desktop\gyakorlás\hazi\nagy házi\telefonkonyv\kereses.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"kereses.h"
+
+1728067266 c:\users\fonok1\desktop\gyakorlás\hazi\nagy házi\telefonkonyv\kereses.h
+	"lista.h"
+
+1732197496 source:c:\users\fonok1\desktop\gyakorlás\hazi\nagy házi\telefonkonyv\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"lista.h"
+
+1731776613 source:c:\users\fonok1\desktop\gyakorlás\hazi\nagy házi\telefonkonyv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"menuk.h"
+	"lista.h"
+	"egyeb.h"
+
+1728661541 c:\users\fonok1\desktop\gyakorlás\hazi\nagy házi\telefonkonyv\menuk.h
+	"lista.h"
+
+1732198270 source:c:\users\fonok1\desktop\gyakorlás\hazi\nagy házi\telefonkonyv\menuk.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"menuk.h"
+	"egyeb.h"
+	"kereses.h"
+
+1732200967 source:c:\users\fonok1\desktop\gyakorlás\c programozás\végleges_házi_feladat\telefonkonyv\egyeb.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"lista.h"
+	"egyeb.h"
+
+1728070475 c:\users\fonok1\desktop\gyakorlás\c programozás\végleges_házi_feladat\telefonkonyv\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1729191881 c:\users\fonok1\desktop\gyakorlás\c programozás\végleges_házi_feladat\telefonkonyv\lista.h
+
+1728070475 c:\users\fonok1\desktop\gyakorlás\c programozás\végleges_házi_feladat\telefonkonyv\egyeb.h
+	"lista.h"
+
+1729957493 source:c:\users\fonok1\desktop\gyakorlás\c programozás\végleges_házi_feladat\telefonkonyv\kereses.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"kereses.h"
+
+1728070866 c:\users\fonok1\desktop\gyakorlás\c programozás\végleges_házi_feladat\telefonkonyv\kereses.h
+	"lista.h"
+
+1732201096 source:c:\users\fonok1\desktop\gyakorlás\c programozás\végleges_házi_feladat\telefonkonyv\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"lista.h"
+
+1732303830 source:c:\users\fonok1\desktop\gyakorlás\c programozás\végleges_házi_feladat\telefonkonyv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"menuk.h"
+	"lista.h"
+	"egyeb.h"
+
+1728665141 c:\users\fonok1\desktop\gyakorlás\c programozás\végleges_házi_feladat\telefonkonyv\menuk.h
+	"lista.h"
+
+1732202235 source:c:\users\fonok1\desktop\gyakorlás\c programozás\végleges_házi_feladat\telefonkonyv\menuk.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"debugmalloc.h"
+	"menuk.h"
+	"egyeb.h"
+	"kereses.h"
+
