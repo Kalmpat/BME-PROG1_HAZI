@@ -1,11 +1,11 @@
 # Elektronikus Telefonkönyv 
-1. Bevezetés
+##1. Bevezetés
 
 A program „Elektronikus Telefonkönyv”, programozási nyelve, ’C’ nyelv.  
 Felépítése: menüvezérelt, adatkezelésen alapul, egy elképzelt elektronikus telefonkönyv kezelését valósítja meg.  
 Adatrendszere: rekordokban tárolja az egyedeket, a következő egyedtulajdonságokkal (mezőkben): személyek neve, foglalkozása, címe, és kora valamint az egyén telefonszámát. 
 
-2. Funkciók  
+##2. Funkciók  
 
   2.1 Rekordok hozzáadása, módosítása, törlése 
   
