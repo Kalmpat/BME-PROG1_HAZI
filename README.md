@@ -7,7 +7,7 @@ Adatrendszere: rekordokban tárolja az egyedeket, a következő egyedtulajdonsá
 
 ## 2. Funkciók  
 
-  1. Rekordok hozzáadása, módosítása, törlése 
+### 2.1 Rekordok hozzáadása, módosítása, törlése 
   
 A felhasználónak lehetősége van új egyedek, rekordok létrehozására, egyedek törlésére az egyedtulajdonságok módosítására. 
 A rekordok felépítése (mezők): 
@@ -27,7 +27,7 @@ Rekordszintű funkciók a következőek:
 • **Rekord módosítása:** A felhasználó kiválaszthatja a módosítani kívánt rekordot, majd a program megjeleníti az összes mezőt, ahol a felhasználó kiválaszthatja, hogy mely mezőt szeretné módosítani.  
 • Rekord törlése: A felhasználó kiválasztja a törölni kívánt egyedet, rekordot. 
 
-  2.2  Keresés; név, foglalkozás és telefonszám alapján 
+### 2.2  Keresés; név, foglalkozás és telefonszám alapján 
   
 A felhasználónak lehetősége van a rekordok keresésére név, foglalkozás és telefonszám mezők alapján. A keresés eredményeként megjelenítésre kerülnek a talált rekordok. A név (vezetéknév, keresztnév) esetén egy darab *-ot tartalmazó helye琀琀esítés (wildcard) kezelésére van lehetőség (pl. a "Nagy" N*y, "*István" I*ván keresősztringek valamelyikét használva, megtalálja Nagy
 Istvánt a telefonkönyvben).  
@@ -35,12 +35,12 @@ Istvánt a telefonkönyvben).
 *Több találat:* Ha a keresési feltételek alapján több rekord is megfelel, a program mindegyik rekordot kilistázza. Az eredmények közö琀琀 a felhasználó kiválaszthatja, hogy melyik rekordot szeretné részletesebben megtekinteni vagy további műveleteket végrehajtani rajta (pl. módosítás, törlés).  
 *Nincs találat:* Ha a keresés nem ad találatot, a program kiírja, hogy "Nincs találat ", és visszatér a keresési lehetőségekhez. 
   
-  2.3 Az adatok fájlba mentése 
+ ### 2.3 Az adatok fájlba mentése 
   
 A felhasználónak lehetősége van az összes rekord mentésére egy adatállományba, fájlba. Így 
 alkalmassá tehető arra, hogy adatbázis kialakítás valósuljon meg. 
  
-  2.4 vCard létrehozás 
+### 2.4 vCard létrehozás 
   
 A vCard létrehozásával lehetőség van arra, hogy ezt a vCard-ot fájlba mentsük, vagy tetszőleges 
 export formába hozzuk. (Csak azokat a mezőket használjuk, amiket a programom ismer, amely a 
@@ -52,7 +52,7 @@ mezőket tartalmazhatja:
 
 ## 3. A program menüvezérelt rendszere:
  
-  3.1 Hogyan jelenik meg a menü, hogyan lehet menüpontot választani? 
+### 3.1 Hogyan jelenik meg a menü, hogyan lehet menüpontot választani? 
   
 A program indulásakor egy főmenüt jelenít meg a képernyőn. A menü különböző lehetőségeket tartalmaz.   
 o "Rekord létrehozás"  
@@ -62,7 +62,7 @@ o "Keresés,"
 o "vCard export," és  
 o "Kilépés." 
 
-  3.2 Hogyan jelennek meg az egyes funkciók? 
+### 3.2 Hogyan jelennek meg az egyes funkciók? 
   
 A felhasználó a főmenüben a menüpontok közö琀琀 navigálhat, és a kívánt funkciót 
 kiválaszthatja. Ehhez a felhasználónak a menüpontnál látható számot kell beírnia, a rossz 
@@ -70,7 +70,7 @@ választást a program kezeli. Az egyes funkciók végrehajtása után a program
 üzeneteket, a rekordok sikeres mentéséről, törléséről, vagy amikor a módosítás sikeresen 
 megtörtént. "Rekord létrehozva"; "Rekord törölve"; "Rekord módosítva". 
 
-  3.3 Hogyan lehet visszakerülni a főmenübe, mikor van vagy nincs rá mód? 
+### 3.3 Hogyan lehet visszakerülni a főmenübe, mikor van vagy nincs rá mód? 
   
 A program alapértelmeze琀琀 működése, hogy minden funkció végrehajtása után visszatér a 
 főmenübe, és a felhasználó új funkciót választhat. Az almenüknél pedig meg kell adnia, hogy 
@@ -79,25 +79,25 @@ főmenübe, és a felhasználó új funkciót választhat. Az almenüknél pedig
 A "Kilépés" funkcióval a program befejezi futását, visszaadja a vezérlést az operációs 
 rendszernek. 
 
-  3.4 Hogyan, milyen sorrendben kér be a program adatokat? 
+### 3.4 Hogyan, milyen sorrendben kér be a program adatokat? 
   
 Adatrögzítés, rekord létrehozás esetén a program a rekordban szereplő mezők sorrendjében 
 kéri be az adatokat a megfelelő formában, a megfelelő mező 琀pusban. Módosítás során a 
 rekordok teljes kijelzése után a felhasználó választja ki, mely adatot, mely mezőt kívánja 
 módosítani, módosítás után a teljes rekord rögzítésre kerül.   
 
-  3.5 Milyen formában várja a program az egyes adatokat? (pl. ÉÉÉÉ/HH/NN?) 
+### 3.5 Milyen formában várja a program az egyes adatokat? (pl. ÉÉÉÉ/HH/NN?) 
   
 Az adatok bekérése a fent 2.1 ala琀琀 ismertete琀琀 formában történik. 
 
-  3.6 Vállalkozik-e a program hibás bemenet (pl. rossz formátumú adat) lekezelésére? Ha igen, milyen hibákat tud kezelni, hogyan jelzi a hibát? (hibaüzenet stb.) 
+### 3.6 Vállalkozik-e a program hibás bemenet (pl. rossz formátumú adat) lekezelésére? Ha igen, milyen hibákat tud kezelni, hogyan jelzi a hibát? (hibaüzenet stb.) 
   
 A program foglalkozik a hibás bemenetekkel, ekkor a program kiírja, menü esetén, hogy 
 „érvénytelen válasz” vagy „hibás bemenet” és lehetőségünk lesz új választ adnunk, 
 adatbevitel esetén (felvétel módosítás) csak a megfelelő formátumot fogadja el, a 
 felhasználónak külön jelzés nélkül kell kijavítani a hibásan beírt adatot. 
 
-  3.7 Milyen az elvárt kimenete az egyes funkcióknak? 
+### 3.7 Milyen az elvárt kimenete az egyes funkcióknak? 
   
 Bevitel, módosítás esetén a „kimenet” fájlszintű, lekérdezés esetén képernyőre történő listázás 
 valósul meg. 
