@@ -7,7 +7,7 @@ Adatrendszere: rekordokban tárolja az egyedeket, a következő egyedtulajdonsá
 
 ## 2. Funkciók  
 
-  1 Rekordok hozzáadása, módosítása, törlése 
+  1. Rekordok hozzáadása, módosítása, törlése 
   
 A felhasználónak lehetősége van új egyedek, rekordok létrehozására, egyedek törlésére az egyedtulajdonságok módosítására. 
 A rekordok felépítése (mezők): 
