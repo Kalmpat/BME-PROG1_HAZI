@@ -7,7 +7,7 @@ Adatrendszere: rekordokban tárolja az egyedeket, a következő egyedtulajdonsá
 
 ## 2. Funkciók  
 
-  2.1 Rekordok hozzáadása, módosítása, törlése 
+  1 Rekordok hozzáadása, módosítása, törlése 
   
 A felhasználónak lehetősége van új egyedek, rekordok létrehozására, egyedek törlésére az egyedtulajdonságok módosítására. 
 A rekordok felépítése (mezők): 
@@ -50,7 +50,7 @@ mezőket tartalmazhatja:
 ➢ *Foglalkozás (legfeljebb 15 karakter)* 
 ➢ *Telefonszám (legfeljebb 11 karakter)* 
 
-3. A program menüvezérelt rendszere:
+## 3. A program menüvezérelt rendszere:
  
   3.1 Hogyan jelenik meg a menü, hogyan lehet menüpontot választani? 
   
@@ -106,7 +106,7 @@ lehetőségként egy rekordszintű változóba rögzí琀椀, azokkal az adatokk
 szerepelnek, és lehetőséget ad arra, hogy ezeket az elkészíte琀琀 vCard-okat rekordszervezésű 
 fájlba mentsük, vagy tetszőleges export formában tároljuk. 
 
-4 Összegzés 
+## 4 Összegzés 
 
 A tervezett programom fekete-fehér képernyőn jelení琀椀 meg az adatokat, szövegszerűen, azonos betűtípussal. A megjelenítés során színeket nem alkalmazok. 
 A vCard megjelenítése során keretet rajzolok körré. 
