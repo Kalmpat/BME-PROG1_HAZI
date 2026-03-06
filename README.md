@@ -127,3 +127,5 @@ fájlba mentsük, vagy tetszőleges export formában tároljuk.
 A tervezett programom fekete-fehér képernyőn jelenítt meg az adatokat, szövegszerűen, azonos betűtípussal. A megjelenítés során színeket nem alkalmazok. 
 A vCard megjelenítése során keretet rajzolok körré. 
 A programom kezelése külön kezelési utasítást, felhasználói kézikönyvet nem igényel, a program indítása során a szükséges magyarázatokat kiírja.
+
+
